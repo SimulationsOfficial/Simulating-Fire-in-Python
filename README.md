@@ -24,3 +24,6 @@ https://youtu.be/znBXjUP953E
    ```bash
    python fireplace.py
 A new window will open with your cozy fireplace simulation!
+
+## Credits
+This project was designed and led by me, with Grok AI (xAI) serving as a coding assistant.
